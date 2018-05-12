@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32702
 description: Alone and unaided, Pilot Travers copes with the invisible foes who have
   struck down America's great engine of war.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29053#Raiders-Invisible
 gutenberg_bookshelf:
 - Science Fiction
 - Astounding Stories
